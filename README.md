@@ -1,3 +1,10 @@
+## Introduction
+This is an sql project that gives information about a movie(IMDB-Movies). It gives proper information about the number of movies, directors, actors and year of unique distribution.
+
+## Work Tool
+MySQL
+
+
 ### 1.What are all Directors Names and total count of unique directors in directors’ table?
 ![imdb1](https://github.com/Kijem45/IMDB_Movies/assets/147368327/863a8bac-7d17-4de4-9cd4-865ab5a7a594)
 
